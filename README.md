@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Data Science
 - 📫 How to reach me: akkikishore5@gmail.com
 
-If you are looking for one of my previous project, I currently have them all set to private. Please contact me if you need to see the code.
+If you are looking for one of my previous projects, I currently have them all set to private. Please contact me if you need to see the code.
 
 
 <!---
